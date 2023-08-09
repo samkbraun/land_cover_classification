@@ -1,4 +1,4 @@
-# land_cover_classification# Deep Learning Image Processing Project
+# Land Cover Classification (Deep Learning Image Processing Project)
 
 NOTE: THIS README IS FOR THE PLANNED FINAL PROJECT, CURRENTLY THIS REPO IS INCOMPLETE
 
